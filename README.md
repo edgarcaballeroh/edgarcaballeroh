@@ -1,7 +1,22 @@
-### Hi there 👋
+###  Edgar Fernando Caballero andez 
+** Estudios**
+-bachiller
+-tecnico en sistemas
+-psicologo 
+**aficiones**
+-estudiar idiomas
+-asistir a cine y teatro
+-jugar videojuegos
+-escribir
+
+
 #
 ##
 ###
+
+
+
+
 
 <!--
 **edgarcaballeroh/edgarcaballeroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
