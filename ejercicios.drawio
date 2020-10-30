@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T03:43:07.885Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="cjYFx6goB0_nC5gTIFlN" version="13.8.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-30T04:06:26.424Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7-ffbSGbZT3ZED1wpTc4" version="13.8.5" type="github" pages="10">
   <diagram id="nrE7dxVKxtF__F7ucNFG" name="ejercicio-1">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,11 +378,57 @@
       <root>
         <mxCell id="FwkOPFTLH3TpKKBeWIt7-0" />
         <mxCell id="FwkOPFTLH3TpKKBeWIt7-1" parent="FwkOPFTLH3TpKKBeWIt7-0" />
-        <mxCell id="KtOQpn_-J2fMMrSsp-q8-0" value="string nombre&lt;br&gt;float numHorTra&lt;br&gt;int valHor&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FwkOPFTLH3TpKKBeWIt7-1">
+        <mxCell id="KtOQpn_-J2fMMrSsp-q8-0" value="string nombre&lt;br&gt;float numHorTra&lt;br&gt;int valHor&lt;br&gt;float sueldo" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FwkOPFTLH3TpKKBeWIt7-1">
           <mxGeometry x="360" y="-1110" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KtOQpn_-J2fMMrSsp-q8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FwkOPFTLH3TpKKBeWIt7-1">
-          <mxGeometry x="350" y="-1010" width="130" height="60" as="geometry" />
+        <mxCell id="iyJVdTX6dgyeDjD7c283-0" value="&lt;br&gt;ingrese nombre&amp;nbsp;&lt;br&gt;ingrese numHorTra&lt;br&gt;ingrese valHor" style="shape=manualInput;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FwkOPFTLH3TpKKBeWIt7-1">
+          <mxGeometry x="346" y="-1020" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iyJVdTX6dgyeDjD7c283-1" value="escriba &quot;el sueldo del&amp;nbsp; empleado&quot; +nombre+ &quot;es&quot;+ sueldo" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="FwkOPFTLH3TpKKBeWIt7-1">
+          <mxGeometry x="354" y="-790" width="136" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iyJVdTX6dgyeDjD7c283-2" value="sueldo=numHorTra* valHor" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="FwkOPFTLH3TpKKBeWIt7-1">
+          <mxGeometry x="350" y="-910" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NgX7Okd3f-a6eauTtlbf" name="Page-9">
+    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="j3PG44rJdWE3vTBY3U_n-0" />
+        <mxCell id="j3PG44rJdWE3vTBY3U_n-1" parent="j3PG44rJdWE3vTBY3U_n-0" />
+        <mxCell id="pm_Ynwj0AiHgj8-7f4QM-0" value="&lt;br&gt;iva= valPro*0.19&lt;br&gt;valTotal= valPro+iva" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="j3PG44rJdWE3vTBY3U_n-1">
+          <mxGeometry x="340" y="280" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pm_Ynwj0AiHgj8-7f4QM-1" value="float iva, valPro,valTotal" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="j3PG44rJdWE3vTBY3U_n-1">
+          <mxGeometry x="354" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2Kk_brR0c8a44ci5skX-0" value="ingrese valPro" style="shape=manualInput;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="j3PG44rJdWE3vTBY3U_n-1">
+          <mxGeometry x="344" y="170" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O2Kk_brR0c8a44ci5skX-1" value="escriba valTotal es valTotal" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="j3PG44rJdWE3vTBY3U_n-1">
+          <mxGeometry x="365" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="R3U1l9Z7cra8umoqFvFj" name="ejercicio 10">
+    <mxGraphModel dx="1038" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="p9-cMv6lRw13Z_weP51t-0" />
+        <mxCell id="p9-cMv6lRw13Z_weP51t-1" parent="p9-cMv6lRw13Z_weP51t-0" />
+        <mxCell id="_bFzUXARbuwFcbOuPs0k-0" value="float area&lt;br&gt;float base&lt;br&gt;float altura" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="p9-cMv6lRw13Z_weP51t-1">
+          <mxGeometry x="360" y="-1110" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_bFzUXARbuwFcbOuPs0k-1" value="&lt;br&gt;ingrese base&lt;br&gt;ingrese altura&lt;br&gt;i" style="shape=manualInput;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="p9-cMv6lRw13Z_weP51t-1">
+          <mxGeometry x="346" y="-1020" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bFzUXARbuwFcbOuPs0k-2" value="escriba &quot;el area es&quot; +area +&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="p9-cMv6lRw13Z_weP51t-1">
+          <mxGeometry x="360" y="-740" width="136" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_bFzUXARbuwFcbOuPs0k-3" value="area=base* altura" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="p9-cMv6lRw13Z_weP51t-1">
+          <mxGeometry x="346" y="-870" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
