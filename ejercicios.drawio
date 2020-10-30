@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T03:24:44.192Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="AasAe9kfNTHTPsCs-dj8" version="13.8.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-30T03:25:52.639Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="sGTsa-Sbz0V5t4feKPNp" version="13.8.5" type="github" pages="7">
   <diagram id="nrE7dxVKxtF__F7ucNFG" name="ejercicio-1">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,6 +288,14 @@
         <mxCell id="wqxE3rIyd4O8vXoYmL-s-7" value="imprima numero" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="wqxE3rIyd4O8vXoYmL-s-1">
           <mxGeometry x="414" y="340" width="120" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sTqsMiQ_6JUGRJYa5lHP" name="Page-7">
+    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Q-9oENikooOxc5XvxMcR-0" />
+        <mxCell id="Q-9oENikooOxc5XvxMcR-1" parent="Q-9oENikooOxc5XvxMcR-0" />
       </root>
     </mxGraphModel>
   </diagram>
