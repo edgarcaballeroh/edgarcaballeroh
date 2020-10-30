@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T03:13:04.273Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ghw0ZpFqApG-dWnj0rzM" version="13.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-10-30T03:13:57.182Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="pVpaQt8jfCRnVmf3yGtr" version="13.8.5" type="github" pages="6">
   <diagram id="nrE7dxVKxtF__F7ucNFG" name="ejercicio-1">
-    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,16 +17,19 @@
         <mxCell id="b9qe-_sKUgxHq_5ZWORq-4" value="suma= num 1+num 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XMRNwf9vfEu8cqDyOb3x-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9qe-_sKUgxHq_5ZWORq-5" target="b9qe-_sKUgxHq_5ZWORq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b9qe-_sKUgxHq_5ZWORq-5" value="Escribir la suma&amp;nbsp; es: Suma" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b9qe-_sKUgxHq_5ZWORq-6" value="fin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="400" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I8-JNItQw2Sqt2gPTEA_-2" value="int num1, num2= 0, int suma&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="I8-JNItQw2Sqt2gPTEA_-2" value="int num1, num2= 0, int suma&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="110" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I8-JNItQw2Sqt2gPTEA_-3" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+        <mxCell id="I8-JNItQw2Sqt2gPTEA_-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="439.5" y="160" as="sourcePoint" />
             <mxPoint x="439.5" y="190" as="targetPoint" />
@@ -35,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8-JNItQw2Sqt2gPTEA_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="I8-JNItQw2Sqt2gPTEA_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="444.5" y="340" as="sourcePoint" />
             <mxPoint x="445" y="390" as="targetPoint" />
@@ -45,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dd-geoBwseKrPxZ8nLHZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="dd-geoBwseKrPxZ8nLHZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="250" as="sourcePoint" />
             <mxPoint x="430" y="290" as="targetPoint" />
@@ -59,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CntBPHI4r-FiSZMuIRGq" name="ejercicio-2">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1js0tdD2XhEHtkSZnLyt-0" />
         <mxCell id="1js0tdD2XhEHtkSZnLyt-1" parent="1js0tdD2XhEHtkSZnLyt-0" />
@@ -169,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvDQPSpuzmvdH1uzwFjr" name="ejercicio-4">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fnekmKtvo_cDFosqvmUw-0" />
         <mxCell id="fnekmKtvo_cDFosqvmUw-1" parent="fnekmKtvo_cDFosqvmUw-0" />
@@ -220,6 +223,59 @@
       <root>
         <mxCell id="mMkXJgvAZaLgc60lOpjo-0" />
         <mxCell id="mMkXJgvAZaLgc60lOpjo-1" parent="mMkXJgvAZaLgc60lOpjo-0" />
+        <mxCell id="mMkXJgvAZaLgc60lOpjo-2" value="inicio&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=41;" vertex="1" parent="mMkXJgvAZaLgc60lOpjo-1">
+          <mxGeometry x="390" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mMkXJgvAZaLgc60lOpjo-3" value="fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mMkXJgvAZaLgc60lOpjo-1">
+          <mxGeometry x="400" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mMkXJgvAZaLgc60lOpjo-4" value="&amp;nbsp;int c=30&amp;nbsp;&lt;br&gt;farenheit (c*1.8) +32" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mMkXJgvAZaLgc60lOpjo-1">
+          <mxGeometry x="360" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OW-jTohX9AUA1ccRFAqZ-0" value="escriba&amp;nbsp; &quot;30 grados son&quot; + farenheit +&quot;f grados farenheit&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="mMkXJgvAZaLgc60lOpjo-1">
+          <mxGeometry x="360" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-73qrtT2l1mcVe6l0HE-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="mMkXJgvAZaLgc60lOpjo-1" source="mMkXJgvAZaLgc60lOpjo-2" target="mMkXJgvAZaLgc60lOpjo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MqP98V4XI0EGRlSKp0l-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mMkXJgvAZaLgc60lOpjo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="190" as="sourcePoint" />
+            <mxPoint x="429.5" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="429.5" y="170" />
+              <mxPoint x="429.5" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MqP98V4XI0EGRlSKp0l-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mMkXJgvAZaLgc60lOpjo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="429.5" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="429.5" y="270" />
+              <mxPoint x="429.5" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MqP98V4XI0EGRlSKp0l-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mMkXJgvAZaLgc60lOpjo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="390" as="sourcePoint" />
+            <mxPoint x="439.5" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439.5" y="370" />
+              <mxPoint x="439.5" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DXHRP8oSe7lLMtC4puxC" name="ejercicio-6">
+    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="wqxE3rIyd4O8vXoYmL-s-0" />
+        <mxCell id="wqxE3rIyd4O8vXoYmL-s-1" parent="wqxE3rIyd4O8vXoYmL-s-0" />
       </root>
     </mxGraphModel>
   </diagram>
