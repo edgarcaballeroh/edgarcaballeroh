@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T20:14:28.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="7mSIrSG8qmakBCA_08Tn" version="13.8.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-31T20:49:16.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="QWqIMv3P5_aHAfV6o1sL" version="13.8.8" type="github" pages="13">
   <diagram id="nrE7dxVKxtF__F7ucNFG" name="ejercicio-1">
     <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -585,7 +585,7 @@
         <mxCell id="kYsxImVDwIGinbwkpgZw-1" value="fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
           <mxGeometry x="350" y="1070" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kYsxImVDwIGinbwkpgZw-2" value="float promcalpar&lt;br&gt;float Nef&lt;br&gt;float altura&lt;br&gt;float cp" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
+        <mxCell id="kYsxImVDwIGinbwkpgZw-2" value="float promcalpar&lt;br&gt;float Nef&lt;br&gt;float Ntf&lt;br&gt;float cp" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
           <mxGeometry x="350" y="150" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kYsxImVDwIGinbwkpgZw-3" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;ingrese&amp;nbsp; cp1= , cp2=, n3=&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;int promedio&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
@@ -620,6 +620,24 @@
       <root>
         <mxCell id="7mXufHrki5_DT5BqaU9e-0" />
         <mxCell id="7mXufHrki5_DT5BqaU9e-1" parent="7mXufHrki5_DT5BqaU9e-0" />
+        <mxCell id="xv7SXHXRhj13RN7M7AG5-0" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;ingrese&amp;nbsp; inv1, inv2,inv3&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;int promedio&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="7mXufHrki5_DT5BqaU9e-1">
+          <mxGeometry x="310" y="180" width="250" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="xv7SXHXRhj13RN7M7AG5-1" value="let totalInv= (inv1+inv2+inv3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7mXufHrki5_DT5BqaU9e-1">
+          <mxGeometry x="337.5" y="270" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xv7SXHXRhj13RN7M7AG5-2" value="&amp;nbsp;let porInv: (inv#*100)/totalinv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7mXufHrki5_DT5BqaU9e-1">
+          <mxGeometry x="321" y="350" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xv7SXHXRhj13RN7M7AG5-3" value="escriba el porcentaje inversión&amp;nbsp; es porinv" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="7mXufHrki5_DT5BqaU9e-1">
+          <mxGeometry x="370" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hkHaOlRMI5A3oKXufDTk-0" value="inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7mXufHrki5_DT5BqaU9e-1">
+          <mxGeometry x="401" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hkHaOlRMI5A3oKXufDTk-1" value="fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7mXufHrki5_DT5BqaU9e-1">
+          <mxGeometry x="390" y="585" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -628,6 +646,24 @@
       <root>
         <mxCell id="xLBqNtNG4r1TxRji3AdW-0" />
         <mxCell id="xLBqNtNG4r1TxRji3AdW-1" parent="xLBqNtNG4r1TxRji3AdW-0" />
+        <mxCell id="ZlLyRTw-M1EZCnqXr_0H-0" value="inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="401" y="90" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="55bhIYJnFCxn4PJIzS5--0" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;ingrese&amp;nbsp; edadJuan&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;int promedio&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="335.25" y="280" width="250" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="55bhIYJnFCxn4PJIzS5--1" value="edadAlberto&lt;br&gt;edadJuan&lt;br&gt;edadAna" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="390.5" y="160" width="139.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="55bhIYJnFCxn4PJIzS5--2" value="edadAlberto=(edadJuan*66.6)/100&lt;br&gt;&lt;br&gt;edadAna= (edadJuan*133.3)/100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="335.25" y="370" width="304.75" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="55bhIYJnFCxn4PJIzS5--3" value="edadMama=(edadAlberto&lt;br&gt;+edadJuan&lt;br&gt;+edadAna)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="346" y="490" width="244" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="55bhIYJnFCxn4PJIzS5--4" value="fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="438.12" y="600" width="99" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
