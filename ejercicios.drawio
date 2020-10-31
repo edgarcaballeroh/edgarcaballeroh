@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T20:49:16.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="QWqIMv3P5_aHAfV6o1sL" version="13.8.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-31T22:48:58.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="exY791kXwhwYQPaGMb8I" version="13.8.8" type="github" pages="13">
   <diagram id="nrE7dxVKxtF__F7ucNFG" name="ejercicio-1">
     <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zCyiVpqM5F46ocZeXUP7" name="tarea 1">
-    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uVl3oADs0GNC1VQJS6v3-0" />
         <mxCell id="uVl3oADs0GNC1VQJS6v3-1" parent="uVl3oADs0GNC1VQJS6v3-0" />
@@ -585,11 +585,11 @@
         <mxCell id="kYsxImVDwIGinbwkpgZw-1" value="fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
           <mxGeometry x="350" y="1070" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kYsxImVDwIGinbwkpgZw-2" value="float promcalpar&lt;br&gt;float Nef&lt;br&gt;float Ntf&lt;br&gt;float cp" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
+        <mxCell id="kYsxImVDwIGinbwkpgZw-2" value="float promcalpar&lt;br&gt;float Nef&lt;br&gt;float Ntf&lt;br&gt;float cp&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: center&quot;&gt;int promedio&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
           <mxGeometry x="350" y="150" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kYsxImVDwIGinbwkpgZw-3" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;ingrese&amp;nbsp; cp1= , cp2=, n3=&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;int promedio&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
-          <mxGeometry x="302" y="270" width="208" height="70" as="geometry" />
+        <mxCell id="kYsxImVDwIGinbwkpgZw-3" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;ingrese&amp;nbsp; cp1= , cp2=, cp3=&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
+          <mxGeometry x="302" y="270" width="208" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYsxImVDwIGinbwkpgZw-4" value="promtf=(Ntf*15)/100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uVl3oADs0GNC1VQJS6v3-1">
           <mxGeometry x="325" y="790" width="155" height="50" as="geometry" />
@@ -616,7 +616,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OGYk4L8IiA-F7yrck1Y6" name="tarea-2">
-    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7mXufHrki5_DT5BqaU9e-0" />
         <mxCell id="7mXufHrki5_DT5BqaU9e-1" parent="7mXufHrki5_DT5BqaU9e-0" />
