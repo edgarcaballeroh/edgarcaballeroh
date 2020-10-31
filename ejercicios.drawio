@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T17:23:49.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="HzMUTrrrlT1kDjTUjOIv" version="13.8.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-10-31T19:58:31.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="hIbl48sQQbiQZl_xiv5g" version="13.8.8" type="github" pages="13">
   <diagram id="nrE7dxVKxtF__F7ucNFG" name="ejercicio-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CntBPHI4r-FiSZMuIRGq" name="ejercicio-2">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1js0tdD2XhEHtkSZnLyt-0" />
         <mxCell id="1js0tdD2XhEHtkSZnLyt-1" parent="1js0tdD2XhEHtkSZnLyt-0" />
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qBwzRifzwUR4DLWqm004" name="ejercicio-3">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rdSyHwf6kCJnhacnW9s9-0" />
         <mxCell id="rdSyHwf6kCJnhacnW9s9-1" parent="rdSyHwf6kCJnhacnW9s9-0" />
@@ -169,7 +169,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LvDQPSpuzmvdH1uzwFjr" name="ejercicio-4">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fnekmKtvo_cDFosqvmUw-0" />
         <mxCell id="fnekmKtvo_cDFosqvmUw-1" parent="fnekmKtvo_cDFosqvmUw-0" />
@@ -216,7 +216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9rBmUKuxbtoXBTgsW5sF" name="ejercicio-5">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mMkXJgvAZaLgc60lOpjo-0" />
         <mxCell id="mMkXJgvAZaLgc60lOpjo-1" parent="mMkXJgvAZaLgc60lOpjo-0" />
@@ -282,7 +282,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DXHRP8oSe7lLMtC4puxC" name="ejercicio-6">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wqxE3rIyd4O8vXoYmL-s-0" />
         <mxCell id="wqxE3rIyd4O8vXoYmL-s-1" parent="wqxE3rIyd4O8vXoYmL-s-0" />
@@ -338,7 +338,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sTqsMiQ_6JUGRJYa5lHP" name="ejercicio-7">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Q-9oENikooOxc5XvxMcR-0" />
         <mxCell id="Q-9oENikooOxc5XvxMcR-1" parent="Q-9oENikooOxc5XvxMcR-0" />
@@ -407,7 +407,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CZ0lMX55K7sA_qqh9QjD" name="ejercicio-8">
-    <mxGraphModel dx="1038" dy="2830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="3044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FwkOPFTLH3TpKKBeWIt7-0" />
         <mxCell id="FwkOPFTLH3TpKKBeWIt7-1" parent="FwkOPFTLH3TpKKBeWIt7-0" />
@@ -463,7 +463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NgX7Okd3f-a6eauTtlbf" name="ejercicio-9">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j3PG44rJdWE3vTBY3U_n-0" />
         <mxCell id="j3PG44rJdWE3vTBY3U_n-1" parent="j3PG44rJdWE3vTBY3U_n-0" />
@@ -519,7 +519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R3U1l9Z7cra8umoqFvFj" name="ejercicio 10">
-    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="p9-cMv6lRw13Z_weP51t-0" />
         <mxCell id="p9-cMv6lRw13Z_weP51t-1" parent="p9-cMv6lRw13Z_weP51t-0" />
@@ -583,7 +583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OGYk4L8IiA-F7yrck1Y6" name="tarea-2">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7mXufHrki5_DT5BqaU9e-0" />
         <mxCell id="7mXufHrki5_DT5BqaU9e-1" parent="7mXufHrki5_DT5BqaU9e-0" />
@@ -591,7 +591,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J63rfUckPFf1KfO2imi4" name="tarea-3">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="990" dy="1177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xLBqNtNG4r1TxRji3AdW-0" />
         <mxCell id="xLBqNtNG4r1TxRji3AdW-1" parent="xLBqNtNG4r1TxRji3AdW-0" />
@@ -599,10 +599,28 @@
           <mxGeometry x="350" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GR6pY2qGwfahcZF7v2CU-1" value="fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
-          <mxGeometry x="350" y="700" width="80" height="30" as="geometry" />
+          <mxGeometry x="366" y="1020" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TsHojU4oHbs6Ekc07-hA-0" value="float area&lt;br&gt;float base&lt;br&gt;float altura" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+        <mxCell id="TsHojU4oHbs6Ekc07-hA-0" value="float promcalpar&lt;br&gt;float Nef&lt;br&gt;float altura&lt;br&gt;float cp" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
           <mxGeometry x="350" y="150" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_oyhydDVMaftkxrfReQJ-1" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;ingrese&amp;nbsp; cp1= , cp2=, n3=&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;int promedio&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="302" y="270" width="208" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tQ4zenq5fbposmIdzhLn-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="366" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLJSl2ZB5_Pk0qS6YvW4-0" value="totcalpar= (cp1 +cp2+cp3) /3&lt;br&gt;promcalpar= (totalcalpar*55)/100" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="283.5" y="400" width="245" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lLJSl2ZB5_Pk0qS6YvW4-2" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;ingrese&amp;nbsp; Nef&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;int promedio&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="281" y="510" width="250" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="lLJSl2ZB5_Pk0qS6YvW4-3" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;promexamfin= (Nef*30)/100&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="354" y="610" width="187" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lLJSl2ZB5_Pk0qS6YvW4-5" value="&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;ingrese&amp;nbsp; Nef&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;int promedio&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="xLBqNtNG4r1TxRji3AdW-1">
+          <mxGeometry x="289" y="740" width="250" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
